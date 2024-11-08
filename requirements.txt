@@ -1,0 +1,5 @@
+pip install python
+pip install web3
+pip install colorama
+pip instal pyfiglet
+
